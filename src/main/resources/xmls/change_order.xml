@@ -1,0 +1,5 @@
+<Order DocumentType="0001" EnterpriseCode="CARTERS.COM" OrderNo="">
+    <OrderHoldTypes>
+        <OrderHoldType HoldType="REMORSE_HOLD" ReasonText="" Status="1300" />
+    </OrderHoldTypes>
+</Order>

@@ -1,0 +1,30 @@
+sterling:
+  work-flow:
+    -
+        name: TWCCValidateOrderMessage
+        file: xmls/create_order.xml
+        is-service: true
+#    -
+#        name: scheduleOrder
+#        file: xmls/common.xml
+#        is-service: false
+#    -
+#        name: processOrderPayments
+#        file: xmls/common.xml
+#        is-service: false
+#    -
+#        name: changeOrder
+#        file: xmls/change_order.xml
+#        is-service: false
+#    -
+#        name: releaseOrder
+#        file: xmls/common.xml
+#        is-service: false
+#    -
+#        name: changeOrderStatus
+#        file: xmls/change_order_status.xml
+#        is-service: false
+#    -
+#        name: TWCCConfirmShipmentApi
+#        file: xmls/shipment.xml
+#        is-service: true

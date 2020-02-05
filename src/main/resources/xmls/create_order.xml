@@ -1,0 +1,89 @@
+
+<Order BillToID="Suresh Arugunta" CustomerEMailID="suresh.arugunta@carters.com" DocumentType="0001" DraftOrderFlag="N" EnterpriseCode="CARTERS.COM" EntryType="storefront" LevelOfService="STANDARD" ReqShipDate="" OrderDate="" OrderNo="" SellerOrganizationCode="CARTERS.COM" TaxExemptFlag="N" ValidatePromotionAward="N">
+    <Extn ExtnCRMCustomerID="12200013907490" ExtnDWRECustomerID="CAR_10007489" ExtnIntlLocaleLang="default" ExtnIsGuestOrder="N" ExtnIsIntlOrder="N" ExtnIsVIPOrder="N" ExtnIsPoBox="N" ExtnReqInitAVS="N" ExtnIsDefaultTax="N" ExtnBToSToSame="N" ExtnReqInitFraud="N" ExtnReqInitPayment="N" ExtnESStoreId="2992"/>
+    <OrderLines>
+        <OrderLine FulfillmentType="Fulfillment Type for Product Sourcing" GiftFlag="N" GiftWrap="N" OrderedQty="2.0" PrimeLineNo="1" SubLineNo="1" ShipNode="2992">
+            <Extn ExtnWebDescription="F18 LBB Core 2pk Gown Girl floral pink" ExtnWebColor="Red" ExtnWebSize="PRE"  ExtnLineType="BOSS"  ExtnESStoreId="2992" />
+            <Item ItemID="273G301_700_7" ProductClass="1stQuality" UnitCost="5.80" UnitOfMeasure="EACH" ItemDesc="F18 LBB Core 2pk Gown Girl floral pink" ItemShortDesc="F18 LBB Core 2pk Gown Girl floral pink" UPCCode="889338674530"/>
+            <LinePriceInfo IsPriceLocked="Y" UnitPrice="6.60" TaxableFlag="N"/>
+            <LineTaxes>
+                <LineTax ChargeCategory="TAX" ChargeName="SALES_TAX" TaxPercentage="0.0" Tax="0.00" TaxName="SALES TAX"/>
+            </LineTaxes>
+            <LineCharges>
+                <LineCharge ChargeCategory="DISCOUNT" ChargeName="ORDER_PROMOTION1" ChargePerLine="5.80"/>
+                <LineCharge ChargeCategory="DISCOUNT" ChargeName="ORDER_PROMOTION2" ChargePerLine="1.90"/>
+            </LineCharges>
+            <Promotions>
+                <Promotion PromotionApplied="Y" PromotionGroup="MANUAL" PromotionId="Co-Brand BOGO_P1" PromotionType=""/>
+                <Promotion PromotionApplied="Y" PromotionGroup="MANUAL" PromotionId="Loyalty_10_P2" PromotionType="Loyalty_10"/>
+            </Promotions>
+            <Awards>
+                <Award AwardAmount="6.00" AwardApplied="Y" AwardId="Co-Brand BOGO_P1" ChargeCategory="DISCOUNT" ChargeName="ORDER_PROMOTION1" PromotionId="2018 Q2"/>
+                <Award AwardAmount="2.00" AwardApplied="Y" AwardId="Loyalty_10_P2" ChargeCategory="DISCOUNT" ChargeName="ORDER_PROMOTION2" PromotionId="Loyalty 10"/>
+            </Awards>
+        </OrderLine>
+        <OrderLine FulfillmentType="Fulfillment Type for Product Sourcing" GiftFlag="N" GiftWrap="N" OrderedQty="4.0" PrimeLineNo="2" SubLineNo="1" ShipNode="2992">
+            <Extn ExtnWebDescription="S16 yellow gauze emb" ExtnWebColor="Red" ExtnWebSize="7" ExtnLineType="BOSS"  ExtnESStoreId="2992" />
+            <Item ItemID="273G301_700_7"	ProductClass="1stQuality" UnitCost="5.30" UnitOfMeasure="EACH" ItemDesc="S16 yellow gauze emb" ItemShortDesc="S16 yellow gauze emb" UPCCode="888767374844"/>
+            <LinePriceInfo IsPriceLocked="Y" UnitPrice="6.60" TaxableFlag="N"/>
+            <LineTaxes>
+                <LineTax ChargeCategory="TAX" ChargeName="SALES_TAX" TaxPercentage="0.0" Tax="0.00" TaxName="SALES TAX"/>
+            </LineTaxes>
+            <LineCharges>
+                <LineCharge ChargeCategory="DISCOUNT" ChargeName="ORDER_PROMOTION1" ChargePerLine="3.20"/>
+                <LineCharge ChargeCategory="DISCOUNT" ChargeName="ORDER_PROMOTION2" ChargePerLine="5.10"/>
+            </LineCharges>
+            <Promotions>
+                <Promotion PromotionApplied="Y" PromotionGroup="MANUAL" PromotionId="2018-04-25% off $40-OshKosh April Roll-fold 2018_P2" PromotionType="CART4614"/>
+                <Promotion PromotionApplied="Y" PromotionGroup="MANUAL" PromotionId="Loyalty_10_P1" PromotionType="Loyalty2_10"/>
+            </Promotions>
+            <Awards>
+                <Award AwardAmount="6.6" AwardApplied="Y" AwardId="2018-04-25% off $40-OshKosh April Roll-fold 2018_P2" ChargeCategory="DISCOUNT" ChargeName="ORDER_PROMOTION1" PromotionId="2017 Q1"/>
+                <Award AwardAmount="5.00" AwardApplied="Y" AwardId="Loyalty_10_P1" ChargeCategory="DISCOUNT" ChargeName="ORDER_PROMOTION2" PromotionId="Loyalty 10"/>
+            </Awards>
+        </OrderLine>
+        <OrderLine FulfillmentType="Fulfillment Type for Product Sourcing" GiftFlag="N" GiftWrap="N" OrderedQty="3.0" PrimeLineNo="3" SubLineNo="1" ShipNode="2992">
+            <Extn ExtnWebDescription="TB 1pc gry ivory stripe w penguin app" ExtnWebColor="Red" ExtnWebSize="4T" ExtnLineType="BOSS" ExtnESStoreId="2992" />
+            <Item ItemID="273G301_700_7" ProductClass="1stQuality" UnitCost="5.80" UnitOfMeasure="EACH" ItemDesc="TB 1pc gry ivory stripe w penguin app" ItemShortDesc="TB 1pc gry ivory stripe w penguin app" UPCCode="888510822332"/>
+            <LinePriceInfo IsPriceLocked="Y" UnitPrice="6.60" TaxableFlag="N"/>
+            <LineTaxes>
+                <LineTax ChargeCategory="TAX" ChargeName="SALES_TAX" TaxPercentage="0.0" Tax="0.00" TaxName="SALES TAX"/>
+            </LineTaxes>
+            <LineCharges>
+                <LineCharge ChargeCategory="DISCOUNT" ChargeName="ORDER_PROMOTION1" ChargePerLine="3.00"/>
+            </LineCharges>
+            <Promotions>
+                <Promotion PromotionApplied="Y" PromotionGroup="MANUAL" PromotionId="2017-02-25% off $40-OshKosh Spring Catazine_P1" PromotionType="OKBG3271"/>
+                <Promotion PromotionApplied="Y" PromotionGroup="MANUAL" PromotionId="Loyalty_10_P1" PromotionType="Loyalty3_10"/>
+            </Promotions>
+            <Awards>
+                <Award AwardAmount="2.90" AwardApplied="Y" AwardId="Loyalty_10_P1" ChargeCategory="DISCOUNT" ChargeName="ORDER_PROMOTION1" PromotionId="Loyalty 10"/>
+            </Awards>
+        </OrderLine>
+    </OrderLines>
+    <PersonInfoShipTo AddressLine1="241 Tanger Dr" AddressLine2="Suite 1062 ATTN: OshKosh Store" City="WILLIAMSBURG" Country="US" DayPhone="4045289609" EMailID="suresh.arugunta@carters.com" FirstName="Suresh" LastName="Arugunta" State="IA" ZipCode="52361" IsAddressVerified="Y" sCommercialAddress="Y" />
+    <PersonInfoBillTo AddressLine1="Trakt-Glynjans&apos;kyy 161a" AddressLine2="67" City="Lviv" Country="UA" DayPhone="+380676742933" EMailID="suresh.arugunta@carters.com" FirstName="Suresh" LastName="Arugunta" ZipCode="79067" IsAddressVerified="Y"/>
+    <PriceInfo Currency="USD"/>
+    <HeaderCharges>
+        <HeaderCharge ChargeCategory="SHIPPING" ChargeName="SHIPPING" ChargeAmount="6.00"/>
+        <HeaderCharge ChargeCategory="DISCOUNT" ChargeName="SHIPPING_DISCOUNT" ChargeAmount="6.00"/>
+        <HeaderCharge ChargeCategory="DISCOUNT" ChargeName="DISCOUNT_TAX" ChargeAmount="0.00"/>
+    </HeaderCharges>
+    <HeaderTaxes>
+        <HeaderTax ChargeCategory="TAX" ChargeName="SHIPPING_TAX" TaxPercentage="0.0" Tax="0.00" TaxName="SHIPPING TAX"/>
+    </HeaderTaxes>
+    <Promotions>
+        <Promotion PromotionApplied="Y" PromotionGroup="MANUAL" PromotionId="FS on $50-no code-both brands-4_P1"/>
+    </Promotions>
+    <Awards>
+        <Award AwardAmount="6.00" AwardApplied="Y" AwardId="FS on $50-no code-both brands-4_P1" ChargeCategory="DISCOUNT" ChargeName="SHIPPING_DISCOUNT" Description="Free shipping on your purchase of $50 or more." PromotionId="Carter&apos;s Product Discounts"/>
+    </Awards>
+    <PaymentMethods>
+        <PaymentMethod FirstName="Suresh" LastName="Arugunta" ChargeSequence="1" PaymentType="CREDIT_CARD" UnlimitedCharges="N" CreditCardExpDate="11/17" CreditCardNo="9909000198314299" CreditCardType="JCB" DisplayCreditCardNo="0505" MaxChargeLimit="602.40">
+            <PersonInfoBillTo AddressLine1="Trakt-Glynjans&apos;kyy 161a" AddressLine2="67" City="Lviv" Country="UA" DayPhone="+380676742933" EMailID="suresh.arugunta@carters.com" FirstName="Suresh" LastName="Arugunta" ZipCode="79067" IsAddressVerified="Y" Currency="USD"/>
+            <PaymentDetailsList>
+                <PaymentDetails AuthCode="009823" AuthReturnCode="AJB423" AuthReturnFlag="AJB23" AuthReturnMessage="AJB423" AuthTime="2018-06-14T05:29:33-04:00" AuthorizationExpirationDate="2029-04-29T00:00:00-05:00" AuthorizationID="3452341233" CVVAuthCode="" ChargeSequence="" ChargeType="AUTHORIZATION" InternalReturnCode="F0" RequestAmount="40.40" RequestProcessed="Y" ProcessedAmount="40.40" />
+            </PaymentDetailsList>
+        </PaymentMethod>
+    </PaymentMethods>
+</Order>

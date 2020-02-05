@@ -1,0 +1,8 @@
+<Shipment ActualShipmentDate="2020-02-04T00:00:00.00Z" ExpectedShipmentDate="2020-02-04T13:30:00.00Z" CancelNonShippedQuantity="N" Currency="USD" DocumentType="0001" EnterpriseCode="CARTERS.COM" NumOfCartons="1" ProNo="" BolNo="" ShipNode="" CarrierServiceCode="FEDEX" TotalWeight="0.11">
+    <ScacAndService ScacAndService="FXSPPP" />
+    <ShipmentLines>
+        <ShipmentLine ItemID="273G301_700_7" OrderNo="" PrimeLineNo="1" SubLineNo="1" ProductClass="1stQuality" Quantity="2" ReleaseNo="1" ShixpAdviceNo="" UnitOfMeasure="EACH" />
+        <ShipmentLine ItemID="273G301_700_7" OrderNo="" PrimeLineNo="2" SubLineNo="1" ProductClass="1stQuality" Quantity="4" ReleaseNo="1" ShixpAdviceNo="" UnitOfMeasure="EACH" />
+        <ShipmentLine ItemID="273G301_700_7" OrderNo="" PrimeLineNo="3" SubLineNo="1" ProductClass="1stQuality" Quantity="3" ReleaseNo="1" ShixpAdviceNo="" UnitOfMeasure="EACH" />
+    </ShipmentLines>
+</Shipment>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Order BypassPricing="N" CarrierServiceCode="" EnterpriseCode="Samsung" OrderNo="1234" ShipNode=""
+       SellerOrganizationCode="Samsung">
+    <PriceInfo Currency="USD"/>
+    <OrderLines>
+        <OrderLine OrderedQty="3" PrimeLineNo="1" SubLineNo="1">
+            <LinePriceInfo IsPriceLocked="Y" UnitPrice="100.00"/>
+            <Item ItemID="Samsung_Galaxy_A71" ProductClass="GOOD" UnitOfMeasure="EACH"/>
+            <LinePriceInfo IsLinePriceForInformationOnly="N" PricingQuantityStrategy="FIX" UnitPrice=""/>
+            <Extn ExtnTagActive="Y" ExtnTagType="SAM"/>
+        </OrderLine>
+        <OrderLine OrderedQty="1" PrimeLineNo="2" SubLineNo="1">
+            <LinePriceInfo IsPriceLocked="Y" UnitPrice="100.00"/>
+            <Item ItemID="samsung_a50" ProductClass="GOOD" UnitOfMeasure="EACH"/>
+            <LinePriceInfo IsLinePriceForInformationOnly="N" PricingQuantityStrategy="FIX" UnitPrice=""/>
+            <Extn ExtnTagActive="Y" ExtnTagType="SAM"/>
+        </OrderLine>
+        <OrderLine OrderedQty="2" PrimeLineNo="3" SubLineNo="1">
+            <LinePriceInfo IsPriceLocked="Y" UnitPrice="100.00"/>
+            <Item ItemID="samsung_m30s" ProductClass="GOOD" UnitOfMeasure="EACH"/>
+            <LinePriceInfo IsLinePriceForInformationOnly="N" PricingQuantityStrategy="FIX" UnitPrice=""/>
+            <Extn ExtnTagActive="N" ExtnTagType="SAM"/>
+        </OrderLine>
+    </OrderLines>
+    <PersonInfoBillTo AddressLine1="3915 West Airport Freeway" EMailID="test@store.com" City="Bangalore" Country="IN"
+                      State="Delhi" ZipCode="508206"/>
+    <Extn ExtnDeliveryTag="Shipping"/>
+    <PaymentMethods>
+        <PaymentMethod ChargeSequence="0" CreditCardExpDate="12/2020" CreditCardName="Credit Card"
+                       CreditCardNo="4012000033330026" CreditCardType="Visa" FirstName="ABC" LastName="XYZ"
+                       PaymentType="SamCredit" MaxChargeLimit="600.00" UnlimitedCharges="N">
+            <PaymentDetails AuthCode="Auth002" AuthorizationExpirationDate="2020-06-28T23:00:00" AuthorizationID="101"
+                            ChargeType="AUTHORIZATION" ProcessedAmount="600.0" RequestAmount="600.0"/>
+        </PaymentMethod>
+    </PaymentMethods>
+</Order>

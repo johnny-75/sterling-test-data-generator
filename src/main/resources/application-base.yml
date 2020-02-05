@@ -1,0 +1,12 @@
+tester:
+  order:
+    order-uid:
+      prefix: "JCARQA20200205_"
+      start: "001"
+      end: "001"
+  connection:
+#    url: https://oms-qa.carters.com/smcfs/yfshttpapi/yantrahttpapitester.jsp
+    url: http://localhost:7001/smcfs/yfshttpapi/yantrahttpapitester.jsp
+  login:
+    username: admin
+    password: password
